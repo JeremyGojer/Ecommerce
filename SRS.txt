@@ -1,1 +1,38 @@
-SRS : Software Requirement Specifications
+
+
+Title: 
+	System Requirement Specification for Online Shopping System.
+
+Team: 
+	Director, Costumer, Business Analyst, Domain Expert, Q&A team.
+
+Objective: 
+	A E-Commerce Application to provide a mode of interaction & transaction between a Costumer and Seller, with experience of shopping, available for access from everywhere.
+
+Description: 
+	A E-Commerce Application will be a online portal with capabilities of social media interaction & shopping as well as sellers for increased interaction & a internal reward system depending upon usage of the application.
+
+Definitions: 
+	Q&A : Quality Assurance Team
+	BOD : Board of Directors
+	CRM : Customer Relationship Management
+	
+
+Functional Requirements:
+	Product Catalog:
+	Shopping Cart:
+	Order Processing:
+	Payment processing:
+	Delivery Tracking:
+	Social Features:
+	AI Enabled
+	CRM  
+
+Non Functional Requirements:
+	Security:
+	Reliability:
+	Availability:
+	Maintainability:
+	Portability:
+E-Commerce Application
+
